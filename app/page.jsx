@@ -9,5 +9,11 @@ export default function Home() {
 
     <HeroSection />
 
+    <section>
+      <div>
+        <h2> Powerful Features for Your Carrer Growth</h2>
+      </div>
+    </section>
+
   </div>
 }
