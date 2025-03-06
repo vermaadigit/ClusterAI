@@ -1,8 +1,11 @@
-import React from 'react'
-
 const OnboardingPage = () => {
+
+    //Check if user is already onboarding
+
   return (
-    <div>OnboardingPage</div>
+    <main>
+        <OnboardingForm />
+    </main>
   )
 }
 
